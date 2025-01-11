@@ -1,6 +1,6 @@
 # Smart Blind Stick Using Arduino
 
-## Introduction
+## Description
 The Smart Blind Stick is designed to assist visually impaired individuals in navigating safely and independently. It uses ultrasonic sensors, a water sensor, a buzzer, and a vibration motor to provide real-time feedback on obstacles and hazardous surfaces.
 
 ## Features
